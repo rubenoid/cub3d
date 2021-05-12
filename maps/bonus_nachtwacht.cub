@@ -1,0 +1,28 @@
+  R 1600 900
+NO  ./textures/nachtwacht.png
+SO          ./textures/square_2.png
+WE ./textures/square_3.png
+EA ./textures/black_white.png
+
+S ./textures/tree.png
+C ./textures/square_2.png
+F ./textures/square_2.png
+
+
+         111
+         101
+11111111 101
+10200001 101
+101001011101
+101002020001
+101002020001
+101002020001
+101001111111
+101001
+100001
+1E0001
+100001
+111111
+
+
+

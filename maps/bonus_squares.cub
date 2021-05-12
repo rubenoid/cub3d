@@ -1,0 +1,26 @@
+  R 800 600
+NO  ./textures/square.png
+SO          ./textures/square_2.png
+WE ./textures/square_3.png
+EA ./textures/square_4.png
+
+S ./textures/pillar.xpm
+C ./textures/square.png
+F ./textures/vloer.png
+
+
+         111
+         101
+11111111 101
+10200001 101
+101001011101
+101001000001
+101001111111
+101001
+100001
+1E0001
+100001
+111111
+
+
+
