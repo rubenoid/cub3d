@@ -1,6 +1,7 @@
 # cub3d
 
 ![gif](https://github.com/rubenoid/cub3d/blob/main/sprite.gif?raw=true)
+![mark](https://github.com/rubenoid/cub3d/blob/main/cub3d_mark.png?raw=true)
 
 ## Compile
 `make` or `make bonus` for up en down viewing
